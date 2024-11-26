@@ -14,15 +14,14 @@ public class UsuarioDAO {
     private EntityManager entityManager;
 
     public Usuario crearUsuario(Usuario usuario) {
-        entityManager.persist(usuario); // Guarda el usuario en la base de datos
-        return usuario; // Retorna el usuario con el ID generado
+        entityManager.persist(usuario);
+        return usuario;
     }
-
 
     public Usuario loginUsuario(String username, String password) {
         try {
             return entityManager.createQuery(
-                            "SELECT u FROM Usuario u WHERE u.nombre = :username AND u.contrasena = :password",
+                            "SELECT u FROM Usuario u WHERE u.correo  = :username AND u.contrasena = :password",
                             Usuario.class)
                     .setParameter("username", username)
                     .setParameter("password", password)
@@ -32,7 +31,7 @@ public class UsuarioDAO {
         }
     }
 
-    public Usuario obtenerUsuarioPorId(Long id) {
+    public Usuario obtenerUsuarioPorId(int id) {
         return entityManager.find(Usuario.class, id);
     }
 }

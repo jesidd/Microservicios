@@ -14,8 +14,8 @@ public class UsuarioController {
     @Autowired
     UsuarioService usuarioService;
 
-    @GetMapping("/id")
-    public UsuarioDTO getUsuario(@PathVariable long id) {
+    @GetMapping("/{id}")
+    public UsuarioDTO getUsuario(@PathVariable int id) {
         return usuarioService.obtenerUsuarioPorId(id);
     }
 

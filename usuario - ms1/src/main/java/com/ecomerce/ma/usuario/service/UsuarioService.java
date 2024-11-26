@@ -29,15 +29,16 @@ public class UsuarioService {
     public UsuarioDTO login(String username, String password) {
 
         Usuario usuario = usuarioDAO.loginUsuario(username, password);
-        return new UsuarioDTO(
+        if (usuario != null) {return new UsuarioDTO(
                 usuario.getId(),
                 usuario.getNombre(),
                 usuario.getCorreo(),
                 usuario.getContrasena()
-        );
+        );}
+        return null;
     }
 
-    public UsuarioDTO obtenerUsuarioPorId(Long id) {
+    public UsuarioDTO obtenerUsuarioPorId(int id) {
         Usuario usuario = usuarioDAO.obtenerUsuarioPorId(id);
         return new UsuarioDTO(
             usuario.getId(),

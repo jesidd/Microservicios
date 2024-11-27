@@ -4,19 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80aa1f0e-512c-43ff-bc45-281454cc86ed" name="Changes" comment="agregando configs para el cofing server">
+    <list default="true" id="007ee38c-0693-4969-b687-265bf8f466aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryServer/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryServer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryServer/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryServer/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryServer/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryServer/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryServer/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryServer/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryServer/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryServer/src/main/kotlin/com/booking/discoveryserver/DiscoveryServerApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryServer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryServer/src/test/kotlin/com/booking/discoveryserver/DiscoveryServerApplicationTests.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gradle/8.11.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gradle/8.11.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gradle/8.11.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gradle/8.11.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gradle/8.11.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gradle/8.11.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gradle/8.11.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gradle/8.11.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/build/classes/java/main/com/deivis/discovery_service/DiscoveryServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/build/resources/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/producto - ms2/.gradle/8.10.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/producto - ms2/.gradle/8.10.2/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producto - ms2/.gradle/8.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/producto - ms2/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/producto - ms2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/producto - ms2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/usuario - ms1/.gradle/8.11.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/usuario - ms1/.gradle/8.11.1/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuario - ms1/.gradle/8.11.1/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/usuario - ms1/.gradle/8.11.1/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuario - ms1/.gradle/8.11.1/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/usuario - ms1/.gradle/8.11.1/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuario - ms1/.gradle/8.11.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/usuario - ms1/.gradle/8.11.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/usuario - ms1/.gradle/8.11.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/usuario - ms1/.gradle/8.11.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuario - ms1/.gradle/8.11.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/usuario - ms1/.gradle/8.11.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/usuario - ms1/.gradle/8.11.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/usuario - ms1/.gradle/8.11.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/usuario - ms1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/usuario - ms1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuario - ms1/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/usuario - ms1/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuario - ms1/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/usuario - ms1/build/resources/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuario - ms1/build/tmp/compileJava/compileTransaction/stash-dir/UsuarioApplication.class.uniqueId0" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +49,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/ConfigServer">
+    <projectState path="$PROJECT_DIR$/Gateway">
       <ProjectState />
     </projectState>
-    <projectState path="$PROJECT_DIR$/discovery-service">
+    <projectState path="$PROJECT_DIR$/discovery-server">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/orden - ms">
@@ -43,12 +68,6 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <task path="$PROJECT_DIR$/discovery-service">
-          <activation />
-        </task>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -60,75 +79,39 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;jesidd&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:jesidd/Microservicios.git&quot;,
-    &quot;accountId&quot;: &quot;90550d81-f67e-4c4e-b33a-f08816bf20f2&quot;
-  }
-}</component>
-  <component name="KotlinScriptingSettings">
-    <option name="suppressDefinitionsCheck" value="true" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2pPJnCm1QWmSoykEjobSZ7cymYV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2pRtsN12GgEbZLOUGRSg0I3MgMD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle./home/sacksito/IdeaProjects/Microservicios/producto - ms2.executor": "Run",
-    "Gradle.Build ConfigServer.executor": "Run",
-    "Gradle.Build discovery-service.executor": "Run",
-    "Gradle.Build orden - ms.executor": "Run",
-    "Gradle.Build producto - ms2.executor": "Run",
-    "Gradle.Build usuario - ms1.executor": "Run",
-    "Gradle.MicroService.executor": "Run",
-    "Gradle.Tests in 'ConfigServer'.executor": "Run",
-    "Gradle.discovery-service.executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.ConfigServerApplication.executor": "Run",
-    "Spring Boot.DiscoveryApplication.executor": "Run",
-    "Spring Boot.DiscoveryServiceApplication.executor": "Run",
-    "Spring Boot.PedidoApplication.executor": "Run",
-    "Spring Boot.ProductoApplication.executor": "Run",
-    "Spring Boot.UsuarioApplication.executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/sacksito/IdeaProjects/Microservicios/ConfigServer",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TheDeus/Desktop/Microservicios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/orden - ms/src/main/resources" />
-      <recent name="$PROJECT_DIR$/producto - ms2/src/main/resources" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TheDeus\Desktop\Microservicios\discovery-server\src\main\resources" />
+      <recent name="C:\Users\TheDeus\Desktop\Microservicios\Gateway\src\main\resources" />
+      <recent name="C:\Users\TheDeus\Desktop\Microservicios" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -140,89 +123,30 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
-    <option name="hiddenConfigurations">
-      <map>
-        <entry key="SpringBootApplicationConfigurationType">
-          <value>
-            <set>
-              <option value="DiscoveryApplication" />
-            </set>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DiscoveryApplication">
-    <configuration name="Tests in 'ConfigServer'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/ConfigServer" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="/home/sacksito/IdeaProjects/Microservicios/producto - ms2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/producto - ms2" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="jbr-17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <module name="ConfigServer.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deivis.ConfigServer.ConfigServerApplication" />
+  <component name="RunManager" selected="Spring Boot.GatewayApplication">
+    <configuration name="DiscoveryServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discovery-server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.discoveryserver.DiscoveryServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <option name="ALTERNATIVE_JRE_PATH" value="jbr-17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <module name="discovery-service.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.deivis.discovery_service.DiscoveryServiceApplication" />
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Gateway.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gateway.GatewayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PedidoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="jbr-17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="pedido.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservicios.pedido.PedidoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="ProductoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="producto.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.mc2.ProductoApplication" />
       <method v="2">
@@ -236,29 +160,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <option name="ALTERNATIVE_JRE_PATH" value="jbr-17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="SPRING_BOOT_MAIN_CLASS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Gradle.Tests in 'ConfigServer'" />
-      <item itemvalue="Gradle./home/sacksito/IdeaProjects/Microservicios/producto - ms2" />
-      <item itemvalue="Spring Boot.ConfigServerApplication" />
-      <item itemvalue="Spring Boot.DiscoveryApplication" />
-      <item itemvalue="Spring Boot.PedidoApplication" />
-      <item itemvalue="Spring Boot.ProductoApplication" />
-      <item itemvalue="Spring Boot.UsuarioApplication" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Gradle.Tests in 'ConfigServer'" />
-        <item itemvalue="Gradle./home/sacksito/IdeaProjects/Microservicios/producto - ms2" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -271,45 +172,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="80aa1f0e-512c-43ff-bc45-281454cc86ed" name="Changes" comment="" />
-      <created>1732661941863</created>
+      <changelist id="007ee38c-0693-4969-b687-265bf8f466aa" name="Changes" comment="" />
+      <created>1732740922106</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1732661941863</updated>
-      <workItem from="1732661943953" duration="1109000" />
-      <workItem from="1732663090603" duration="3879000" />
-      <workItem from="1732729574219" duration="56000" />
-      <workItem from="1732735264985" duration="2165000" />
-      <workItem from="1732738172554" duration="3598000" />
+      <updated>1732740922106</updated>
+      <workItem from="1732740923333" duration="199000" />
+      <workItem from="1732741142668" duration="68000" />
+      <workItem from="1732741218689" duration="22000" />
+      <workItem from="1732742126128" duration="340000" />
     </task>
-    <task id="LOCAL-00001" summary="cambiando puerto MS1">
-      <option name="closed" value="true" />
-      <created>1732664686994</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1732664686994</updated>
-    </task>
-    <task id="LOCAL-00002" summary="agregando configs para el cofing server">
-      <option name="closed" value="true" />
-      <created>1732737424187</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1732737424187</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/producto - ms2" />
-    </ignored-roots>
-    <MESSAGE value="cambiando puerto MS1" />
-    <MESSAGE value="agregando configs para el cofing server" />
-    <option name="LAST_COMMIT_MESSAGE" value="agregando configs para el cofing server" />
   </component>
 </project>
